@@ -1,0 +1,5 @@
+Testando o comando fprintf
+Vamos ver como q ta indo!
+Vamos ver como q ta indo!
+Forçando o descarregamento do buffer.
+Forçando o descarregamento do buffer.Testando o fputs
